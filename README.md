@@ -136,13 +136,9 @@ The assistant understands various natural language patterns:
 - **Multi-language Support**: Expand language options
 - **Voice Synthesis**: Audio feedback for confirmations
 
-## 🚀 Deployment
+## 🚀 Output
+<img width="1911" height="951" alt="image" src="https://github.com/user-attachments/assets/da4cdfe8-b943-4b3e-a31b-2d53fdf58da6" />
 
-The application can be deployed to:
-- **Vercel**: `vercel --prod`
-- **Netlify**: `netlify deploy --prod`
-- **Firebase Hosting**: `firebase deploy`
-- **AWS S3 + CloudFront**: Static hosting
 
 ## 📝 Technical Approach (200 words)
 
